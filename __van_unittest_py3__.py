@@ -1,6 +1,6 @@
 ﻿import unittest, sys
 
-sys.path.append(r"C:\Users\xiewenhua\Desktop\test")
+sys.path.append(r"C:\Users\VAN\Desktop\test")
 sys.path.append(".")
 import HTMLTestRunner_PY3
 import __createtestreporter__
